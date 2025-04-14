@@ -2,7 +2,6 @@
 - 👀 I’m interested in Java Backend Development
 - 🌱 I’m currently learning Kafka
 - 💞️ I’m looking to collaborate on Kafka Real-time Event Platforms
-- 😄 Pronouns: Prajwal
 - ⚡ Fun fact: Did you know? The first computer "bug" was an actual bug! In 1947, Grace Hopper and her team found a moth causing issues in the Mark II computer at Harvard University. They taped the moth into the logbook and labeled it as the "first actual case of bug being found."
 
 
